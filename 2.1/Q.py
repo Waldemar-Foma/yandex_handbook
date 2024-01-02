@@ -12,6 +12,6 @@
 '''
 
 n_1 = int(input())
-n_2 = (input())
+n_2 = input()
 result = int(n_2, 2)
 print(result + n_1)
